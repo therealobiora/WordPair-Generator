@@ -16,7 +16,7 @@ The Flutter Word Pair Generator is a mobile application built using the Flutter 
 
 To run the Flutter Word Pair Generator on your local machine, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/therealobiora/WordPair-Generator.git`
+1. Clone this repository to your local machine using `git clone git@github.com:therealobiora/WordPair-Generator.git`
 2. Navigate to the project directory: `cd word-pair-generator`
 3. Ensure that you have Flutter installed. If not, follow the [Flutter installation instructions](https://flutter.dev/docs/get-started/install).
 4. Run the app on an emulator or connected device: `flutter run`
